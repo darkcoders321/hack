@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://media0.giphy.com/media/BWpDWSsbSgm0E/giphy.gif');
+}
+
+.wrapper1{
+    width:100%;
+    height:auto;
+    
+}
+.heading h1{
+    font-size: 50px;
+    color: green;
+}
+.wrapper2{
+    width:90%;
+    height:auto;
+    margin: 0 auto;
+}
+.pic img{
+    width:100%;
+}
+
+
+/* wrapper3 */
+
+.foot h1{
+    color:green;
+}
